@@ -1,0 +1,27 @@
+.banner {
+    background: linear-gradient(to right, #00416a, #e4e5e6);
+     /* height: 100vh; */
+     padding-bottom: 100px;
+
+    .row {
+        padding-top: 40px;
+      }
+
+    .container {
+        padding-top: 35px;
+        padding-bottom: 10px;
+      }
+
+      .fotoMia {
+        box-shadow: 5px 4px 23px 1px rgba(0, 0, 0, 0.5);
+      }
+
+      .buttons {
+        margin-top: 50px;
+      }
+      
+      a{
+        text-decoration: none;
+        color: white;
+      }
+  }

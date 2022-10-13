@@ -1,0 +1,23 @@
+{
+  "name": "preentrega-2-dj-ivanoff-pagina-oficial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejoivanoff/alejoivanoff.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejoivanoff/alejoivanoff.github.io/issues"
+  },
+  "homepage": "https://github.com/alejoivanoff/alejoivanoff.github.io#readme",
+  "devDependencies": {
+    "sass": "^1.55.0"
+  }
+}
