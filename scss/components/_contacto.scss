@@ -1,9 +1,12 @@
+@import "../base/variables";
+
 #form {
     display: flex;
     justify-content: center;
     align-items: center;
     background: linear-gradient(to right, #00416a, #e4e5e6);
-    color: white;
+    color: $colorBlanco;
     height: 100vh;
+    overflow: hidden;
   }
   

@@ -126,6 +126,7 @@ footer .textoRedes {
   background: linear-gradient(to right, #00416a, #e4e5e6);
   color: white;
   height: 100vh;
+  overflow: hidden;
 }
 
 * {
