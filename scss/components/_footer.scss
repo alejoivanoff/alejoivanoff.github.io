@@ -1,3 +1,5 @@
+@import "../base/variables";
+
 footer {
     width: 100%;
     bottom: 0;
@@ -20,7 +22,7 @@ footer {
         text-decoration: none;
         margin: 0 25px;
         text-align: center;
-        color: white;
+        color: $colorBlanco;
         text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.67);
         transition: all 0.4s ease-in-out;
       }

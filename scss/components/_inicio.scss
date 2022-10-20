@@ -1,3 +1,5 @@
+@import "../base/variables";
+
 #inicio{
     display: flex;
     align-items: center;
@@ -11,7 +13,7 @@
         rgba(0, 0, 0, 0.5)
       ),
       url('/imagenes/background1.png');
-    color: white;
+    color: $colorBlanco;
     text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.67);
 
     .logoCara {
