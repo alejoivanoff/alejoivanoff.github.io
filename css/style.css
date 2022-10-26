@@ -130,6 +130,9 @@ footer .textoRedes {
   padding-left: 4rem;
   padding-right: 4rem;
 }
+#form .contactoText {
+  margin-bottom: 3rem;
+}
 
 * {
   margin: 0;
