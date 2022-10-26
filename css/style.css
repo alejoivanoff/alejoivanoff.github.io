@@ -127,6 +127,8 @@ footer .textoRedes {
   color: white;
   height: 100vh;
   overflow: hidden;
+  padding-left: 4rem;
+  padding-right: 4rem;
 }
 
 * {
